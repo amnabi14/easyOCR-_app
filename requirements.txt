@@ -1,13 +1,13 @@
-altair==4.2.0
-easyocr==1.6.2
-huggingface-hub==0.11.0
-numpy==1.23.5
-opencv-python-headless==4.5.4.60
-packaging==21.3
-pandas==1.5.2
-Pillow==9.3.0
-streamlit==1.15.1
-textblob==0.17.1
-transformers==4.24.0
-vaderSentiment==3.3.2
+altair
+easyocr
+huggingface-hub
+numpy
+opencv-python-headless
+packaging
+pandas
+Pillow
+streamlit
+textblob
+transformers
+vaderSentiment
 
